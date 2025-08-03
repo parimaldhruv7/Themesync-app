@@ -54,7 +54,7 @@ The built files will be in the `dist` directory.
 
 ## 🌐 Live Deployment
 
-**Live Demo**: [https://themesync-app.netlify.app](https://themesync-app.netlify.app)
+**Live Demo**: [https://themesync-app.vercel.app](https://themesync-app.vercel.app)
 
 ### Deployment Instructions
 
@@ -139,13 +139,13 @@ The application integrates with the [Fake Store API](https://fakestoreapi.com/) 
 
 ## 🚀 Live Demo
 
-[Visit Live Application](https://your-deployment-url.com)
+[Visit Live Application](https://themesync-app.vercel.app)
 
 ## 📧 Contact
 
 For questions or support, please contact:
-- Email: support@themesync.com
-- Website: www.themesync.com
+- Email: parimaldhruv7@gmail.com.com
+- Website: [www.themesync.com](https://themesync-app.vercel.app/)
 
 ## 📄 License
 
